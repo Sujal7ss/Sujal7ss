@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujal7ss" alt="sujal7ss" /></a> </p>
 
-- 🔭 I’m currently working on [Tic Tac Toe Game](https://github.com/Sujal7ss/Tic-Tac-Toe)
+- 🔭 I’m currently working on [Supply-Connect](https://github.com/Sujal7ss/SupplyConnect)
 
 - 🌱 I’m currently learning **ExpressJs, SQL**
 
